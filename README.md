@@ -1,6 +1,4 @@
-# Вопросы для собеседования на позицию администратора Linux и DevOps инженера.
-
-В данном репозитории представлены вопросы для собеседований по основным темам Linux инженера и/или DevOps инженера.
+В данном репозитории представлены вопросы по основным темам Linux инженера и/или DevOps инженера.
 
 ## Основные темы:
 1. [Linux](questions/linux.md)
@@ -13,4 +11,5 @@
 8. [Docker](questions/docker.md)
 9. [Ansible](questions/ansible.md)
 10. [Kubernetes / Openshift](questions/kubernetes.md)
+11. [AWS](questions/AWS.md)
 11. [Тестовые практические задания](questions/practice.md)
